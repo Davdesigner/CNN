@@ -1,1 +1,1 @@
-# CNN
+In-class activity
